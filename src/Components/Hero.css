@@ -1,0 +1,13 @@
+.hero {
+  height: 100%;
+  width: 100%;
+}
+
+#hero-image {
+  text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 100%;
+}
